@@ -18,10 +18,10 @@ Controls:
 
 
 WIDTH, HEIGHT = 800, 600
-DEFAULT_N = 20
-MIN_RADIUS, MAX_RADIUS = 6, 18
-GRAVITY = 0.0  # set small positive like 200 for gravity (px/s^2)
-FRICTION = 0.999  # air friction applied to velocities per step
+DEFAULT_N = 1
+MIN_RADIUS, MAX_RADIUS = 18, 18
+GRAVITY = 200.0  # set small positive like 200 for gravity (px/s^2)
+FRICTION = 1.0  # air friction applied to velocities per step
 
 
 @dataclass
