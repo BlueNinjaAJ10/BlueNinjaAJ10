@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @BlueNinjaAJ10
+- 👋 Bye, I’m @BlueNinjaAJ10
 - 👀 I’m interested in Anything (Not really).
 - 🌱 I’m currently learning Something (Maybe).
 - 💞️ I’m looking to collaborate on [Nothing].
 - 📫 How to reach me: Don't
+- 🤑 Yeah
 
 <!---
 BlueNinjaAJ10/BlueNinjaAJ10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
